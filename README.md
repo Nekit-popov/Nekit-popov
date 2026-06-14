@@ -27,10 +27,10 @@ Leveraging modern technologies, I build optimized, high-performance solutions th
 <br>
 
 <img width="40" height="40" alt="image" src="https://i.imgur.com/GGHIllj.png" />&nbsp;&nbsp;
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/f4003610-1b64-4fb7-bdfe-8dce769581bc" />&nbsp;&nbsp;
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/f045713b-10bf-4c53-a6bb-40b0e201030c" />&nbsp;&nbsp;
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/8291f31e-094d-426f-8b25-3df1b818ac91" />
-
+<img width="40" height="40" alt="image" src="https://user-images.githubusercontent.com/108423299/176494705-41e53cfb-6310-43b1-9c4a-edc0dd410122.png" />&nbsp;&nbsp;
+<img width="40" height="40" alt="image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/3840px-Adobe_Photoshop_CC_icon.svg.png" />&nbsp;&nbsp;
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/8291f31e-094d-426f-8b25-3df1b818ac91" />&nbsp;&nbsp;
+<img width="40" height="40" alt="image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/960px-Arduino_IDE_logo.svg.png" />
 
 
 
