@@ -54,6 +54,11 @@ Leveraging modern technologies, I build optimized, high-performance solutions th
 
 </div>
 
+---
+<div align="center">
 
+## 📊 GitHub Stats
 <br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nekit-popov)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nekit-popov&theme=blue-green&show_icons=true)
+
+</div>
