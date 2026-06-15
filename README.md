@@ -6,7 +6,6 @@
 <br>
 
 <a href="https://t.me/Nikitapopovalex"><img src="https://static.vecteezy.com/system/resources/previews/023/741/064/large_2x/telegram-logo-icon-social-media-icon-free-png.png" height="40"></a>&nbsp;&nbsp;
-<a href="https://vk.com/nikitosamicus"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/1280px-VK.com-logo.svg.png" height="40"></a>&nbsp;&nbsp;
 <a href="https://discordapp.com/users/1109928541941932122"><img src="https://gorodpap.ru/img/social5.png" height="40"></a>&nbsp;&nbsp;
 <br><br>
 > ### 🏛️ "It is not work that exhausts, but doubts and the sense of honor, a responsibility that can rest upon nothing but one's own conviction and one's own will." — Otto von Bismarck
