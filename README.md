@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Nikita!
 
-### Java Developer | Minecraft Plugin & Mod Creator | Server Admin | Resourcepackes designer | CIS
+### Java Developer | Minecraft Plugin & Mod Creator | Server Admin | Resourcepacks designer | CIS
 <br>
 
 <a href="https://t.me/Nikitapopovalex"><img src="https://static.vecteezy.com/system/resources/previews/023/741/064/large_2x/telegram-logo-icon-social-media-icon-free-png.png" height="40"></a>&nbsp;&nbsp;
